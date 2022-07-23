@@ -52,7 +52,7 @@ _Combinando o **negrito** e o itálico_
 </ul>
 
 ### Inserindo imagens
-![Aqui vai a imagem] (imagem/)
+![Aqui vai a imagem] (imagens/GitHub-logo.png)
 
 # Identificando status de alterações do branch atual
   git status
