@@ -1,4 +1,7 @@
 # (H1) PDI - Git Fundamentos
+<br> 
+Esse repositório tem por objetivo demonstrar a utilização de comandos do GIT (subir códigos para GIT em linha de comando)
+<br> 
 
 ## (H2) Repositório
 https://github.com/viniciusnyari/pdi_git
